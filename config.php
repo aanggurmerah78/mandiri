@@ -2,7 +2,7 @@
 $config = array(
   	'url'		=> 'http://mandiri.freelawfounders.org/',
 	'parameter' => 'loncat',
-	'template'  => 'index.html',
+	'template'  => 'temp.html',
 	'keywords'  => 'list.txt',
 	'sitemap'	=> 'sitemap.txt'
 );
